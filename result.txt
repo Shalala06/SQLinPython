@@ -1,0 +1,4 @@
+0
+('Setosa', 50)
+('Versicolor', 50)
+('Virginica', 50)
